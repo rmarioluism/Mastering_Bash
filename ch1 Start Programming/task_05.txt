@@ -1,0 +1,9 @@
+total 9.0K
+drwxr-xr-x 1 BlackPanther 197121   0 May 28 22:20 ./
+drwxr-xr-x 1 BlackPanther 197121   0 May 28 22:15 ../
+-rw-r--r-- 1 BlackPanther 197121 138 May 28 21:58 task_01.sh
+-rw-r--r-- 1 BlackPanther 197121  66 May 28 22:00 task_02.sh
+-rw-r--r-- 1 BlackPanther 197121 311 May 28 22:01 task_03.sh
+-rw-r--r-- 1 BlackPanther 197121 163 May 28 22:11 task_04.sh
+-rw-r--r-- 1 BlackPanther 197121 316 May 28 22:20 task_05.sh
+-rw-r--r-- 1 BlackPanther 197121   0 May 28 22:20 task_05.txt
