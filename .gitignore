@@ -1,0 +1,7 @@
+!*best.pt #ignore all except the best weights
+*.pt
+.idea
+/datasets/plane_manufacturer_dataset/images/
+runs/detect/val*/
+__pycache__/
+.ipynb_checkpoints/
